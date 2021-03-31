@@ -9,8 +9,8 @@ A big take away for me on this project is that computer programming is an iterat
 <br>
 [Software Design and Engineering Enhancement One Code](https://github.com/rspector1974/Software_design_engieering)
 ## ePortfolio Navigation
--[Home](index.md)
--[Enhancement Two](enhancement_two.md)
--[Enhancement Three](enhancement_three.md)
--[Code Review](https://www.youtube.com)
--[Self Assement](self_assesment.md)
+- [Home](index.md)
+- [Enhancement Two](enhancement_two.md)
+- [Enhancement Three](enhancement_three.md)
+- [Code Review](https://youtu.be/li7Q43BDnsc)
+- [Self Assement](self_assesment.md)
