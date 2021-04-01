@@ -19,5 +19,5 @@ A big take away for me on this project is that computer programming is an iterat
 - [Home](index.md)
 - [Enhancement Two](enhancement_two.md)
 - [Enhancement Three](enhancement_three.md)
-- [Code Review](https://youtu.be/li7Q43BDnsc)
-- [Self Assement](self_assesment.md)
+- [Code Review](code_review.md)
+
