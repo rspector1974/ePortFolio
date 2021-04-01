@@ -7,7 +7,7 @@
 
 
 
-[Software Design and Engineering Enhancement One](enhancement_1.md)
+
 <br>
 ## ePortfolio Navigation
 - [Home](index.md)
