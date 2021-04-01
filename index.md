@@ -1,12 +1,10 @@
 
 # Rob Spector's Computer Science ePortFolio
+## Place holder for Introduction
+## Place holder for self assessment
 
 
 
-[Informal Code Review](https://youtu.be/li7Q43BDnsc)
-<br>
-Please visit the link above to see an example of my ability to perform a code review.
-<br>
 
 
 [Software Design and Engineering Enhancement One](enhancement_1.md)
@@ -16,5 +14,5 @@ Please visit the link above to see an example of my ability to perform a code re
 - [Enhancement One](enhancement_1.md)
 - [Enhancement Two](enhancement_two.md)
 - [Enhancement Three](enhancement_three.md)
-- [Code Review](https://youtu.be/li7Q43BDnsc)
+- [Code Review](code_review.md)
 - [Self Assement](self_assesment.md)
