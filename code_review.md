@@ -7,6 +7,6 @@ Below is an informal code review done on my software artifacts prior to their en
 ## ePortfolio Navigation
 - [Home](index.md)
 - [Enhancement One](enhancement_1.md)
-- [Enhancement Two](enhancement_two.md)
-- [Enhancement Three](enhancement_three.md)
+- [Enhancement Two](enhancement_2.md)
+- [Enhancement Three](enhancement_3.md)
 - [Self Assement](self_assesment.md)
