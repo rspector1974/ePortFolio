@@ -14,6 +14,8 @@ I have met my initial course object that was developed in module one, adding a s
 The point of this addition to my portfolio is to demonstrate my understanding of C++, Data Structures, Algorithms and how these all work together to accomplish a task. Per module one, my enhancements do just that and I am happy with the outcome of the project.
 
 During the process of enhancing and modifying my second artifact for CS-499, I refreshed my understanding of binary search trees, and how the nodes of the tree receive their assignments. I also was reminded of just how useful data structures in C++ are at organizing data and making that data available for reference in other methods and functions. This like much of coding in general required me to read up on syntax and remind myself of exactly how the program was intended to originally function. Once that was complete, I did not face any additional challenges during the modification process.
+[Algorithms and Data Structures Enhancement Two Code](https://github.com/rspector1974/algorithms_data_structures)
+
 ## ePortfolio Navigation
 - [Home](index.md)
 - [Enhancement One](enhancement_1.md)
