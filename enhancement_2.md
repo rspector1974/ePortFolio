@@ -1,13 +1,5 @@
 # Enhancement 2
-CS-499 Milestone Three Enhancement Two: Algorithms and Data Structures
-
-Robin Spector
-
-SNHU
-
-3/23/2021
-
-**Narrative:**
+## Enhancement Two: Algorithms and Data Structures
 
 The artifact I have included for the Algorithms and Data Structures portion of my ePortfolio is from CS-260, data structures and algorithms. I created this example in the Spring of 2020. This program is written in C++ and demonstrates multiple data structures as well as the Binary Search Tree algorithm. The program presents the user with several options, the first loads data from a CSV file into a data structure, then loads that struct into nodes to create the binary search tree. The second option puts that data into a vector and iterates through the csv file outputting the information to the cli. The 3rd choice gives the user the ability to reference a single piece of information and retrieve that data from the struct. The software shows the efficiency of a binary search tree by counting the time it takes to search for the reference data. The 4th option allows the user to remove data from the struct and binary search tree.
 
