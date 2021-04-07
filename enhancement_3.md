@@ -1,6 +1,7 @@
 # Enhancement 3
 ## ePortfolio Navigation
 - [Home](index.md)
-- [Enhancement One Software design and engineering example](enhancement_1.md)
-- [Enhancement Two Algorithms and data structures example](enhancement_2.md)
+- [Enhancement One Software Design and Engineering Example](enhancement_1.md)
+- [Enhancement Two Algorithms and Data Structures Example](enhancement_2.md)
+- [Web Development Examples](web_dev.md)
 - [Code Review](code_review.md)
