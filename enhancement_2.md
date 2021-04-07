@@ -19,6 +19,7 @@ During the process of enhancing and modifying my second artifact for CS-499, I r
 
 ## ePortfolio Navigation
 - [Home](index.md)
-- [Enhancement One Software design and engineering example](enhancement_1.md)
-- [Enhancement Three Databases example](enhancement_3.md)
+- [Enhancement One Software Design and Engineering Example](enhancement_1.md)
+- [Enhancement Three Databases Example](enhancement_3.md)
+- [Web Development Examples](web_dev.md)
 - [Code Review](code_review.md)
