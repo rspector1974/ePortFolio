@@ -15,4 +15,5 @@ Add information on OpenCart 3.0 updates and E-commerce itegrations
 - [Enhancement One Software Design and Engineering Example](enhancement_1.md)
 - [Enhancement Two Algorithms and Data Structures Example](enhancement_2.md)
 - [Enhancement Three Databases Example](enhancement_3.md)
+- [Home](index.md)
 - [Code Review](code_review.md)
