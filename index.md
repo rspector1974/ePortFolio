@@ -10,7 +10,7 @@
 
 
 ## ePortfolio Navigation
-- [Enhancement One](enhancement_1.md)
-- [Enhancement Two](enhancement_2.md)
-- [Enhancement Three](enhancement_3.md)
+- [Enhancement One Software design and engineering example](enhancement_1.md)
+- [Enhancement Two Algorithms and data structures example](enhancement_2.md)
+- [Enhancement Three Databases example](enhancement_3.md)
 - [Code Review](code_review.md)
