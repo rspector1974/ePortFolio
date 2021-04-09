@@ -5,10 +5,10 @@
 
 
 
-
+---
 sidebar: 
   nav: "docs"
-
+---
 
 ## ePortfolio Navigation
 - [Enhancement One Software Design and Engineering Example](enhancement_1.md)
