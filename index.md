@@ -1,14 +1,15 @@
 
+---
+sidebar: 
+  nav: "docs"
+---
+
 # Rob Spector's Computer Science ePortFolio
 ## Place holder for Introduction
 ## Place holder for self assessment
 
 
 
----
-sidebar: 
-  nav: "docs"
----
 
 ## ePortfolio Navigation
 - [Enhancement One Software Design and Engineering Example](enhancement_1.md)
