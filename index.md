@@ -1,5 +1,6 @@
 ---
-  nav: "docs"
+  sidebar:
+    nav: "docs"
   
 ---
 
