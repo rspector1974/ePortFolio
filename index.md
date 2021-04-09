@@ -1,7 +1,6 @@
 ---
   sidebar:
     nav: "docs"
-  
 ---
 
 
