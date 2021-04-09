@@ -4,7 +4,7 @@ sidebar:
   nav: "docs"
 ---
 
-# Rob Spector's Computer Science ePortFolio
+
 ## Place holder for Introduction
 ## Place holder for self assessment
 
