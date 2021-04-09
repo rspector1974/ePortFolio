@@ -6,7 +6,8 @@
 
 
 
-
+sidebar: 
+  nav: "docs"
 
 
 ## ePortfolio Navigation
