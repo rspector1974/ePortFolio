@@ -1,4 +1,3 @@
-{{ site.data.navigation}}
 **Professional Self-Assessment**
 
 **Introduction**
