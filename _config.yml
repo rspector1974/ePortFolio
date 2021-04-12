@@ -3,9 +3,9 @@ title: Rob Spectors ePortfolio
 description: A Computer Science Professional
 baseurl: /ePortFolio
 pages_list:
-  Home:'/index.md'
+  intro: '/home'
   Enhancement_1: '/enhancement_1.md'
   Enhancement_2: '/enhancement_2.md'
   Enhancement_3: '/enhancement_3.md'
-  Code_Review:/'code_review.md'
-  Web_Development:'/web_dev.md'
+  CodeReview: '/code_review.md'
+  
