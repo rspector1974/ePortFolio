@@ -1,7 +1,4 @@
----
-  sidebar:
-    nav: "docs"
----
+{{ site.data.navigation}}
 **Professional Self-Assessment**
 
 **Introduction**
