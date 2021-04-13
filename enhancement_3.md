@@ -1,12 +1,3 @@
-**Enhancement Three Databases:**
-CS-499 Milestone Four Enhancement Three: Databases
-
-Robin Spector
-
-SNHU
-
-3/31/2021
-
 **Enhancement Three: Databases**
 
 The artifact I have included for the Database(s) portion of my ePortfolio comes from CS-340, Client Server development. I created this example in the Spring of 2021. This program is written in Python and uses Plotly Dash to facilitate the UX and allow for call backs in a web browser. The database used in this project is mongo DB a NoSQL database. The program uses the pymongo library to access and authenticate with the mongo database that holds records for an animal rescue organization based in Texas. The data from the database is loaded using a read method coded in a separate method file. Once the data is loaded it is displayed in a sortable data table along with a pie graph of different breeds and a geographical location of the animal displayed on a map.
